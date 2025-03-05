@@ -1,6 +1,7 @@
 # C++學習
 
 學習連結：[黑馬程序員B站](https://www.bilibili.com/video/BV1et411b73Z/)
+
 使用軟體：
   - visual studio 2022
   - Notion
